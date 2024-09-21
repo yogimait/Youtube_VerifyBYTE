@@ -77,7 +77,7 @@ function SubscriptionStatus() {
           >
             Subscribe to BYTE YouTube Channel
           </a>
-          <p style={{fontSize: '1.2em', marginBottom: '20px'}}>Subscribe to see the private route Message for only for <Subscribers></Subscribers></p>
+          <p style={{fontSize: '1.2em', marginBottom: '20px'}}>Subscribe to see the private route Message for only for </p>
         </div>
       )}
     </div>
